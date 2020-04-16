@@ -1,0 +1,43 @@
+img {
+	width: 100%;
+	height: auto;
+}
+
+.top-header {
+	background-image: url(../img/fon.jpg);
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+}
+
+header {
+	margin-bottom: 15px;
+
+}
+
+section {
+	margin-bottom: 15px;
+}
+
+.main-iner {
+	border: 1px solid rgba(0,0,0,0.7);
+	padding: 10px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+/* .main-iner a {
+	background-color: red;
+	padding: 7px 30px;
+} */
+
+.iner-text {
+	font-size: 14px;
+}
+
+img {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+top-header {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
